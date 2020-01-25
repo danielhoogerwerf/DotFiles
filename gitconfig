@@ -1,0 +1,10 @@
+[user]
+        name = Daniel Hoogerwerf
+        email = @users.noreply.github.com
+
+[core]
+        pager = less -FRSX
+        editor = vim
+
+[alias]
+        lg = log --graph --all --pretty=format:'%Cred%h%Creset - %s %Cgreen(%cr) %C(bold blue)%an%Creset %C(yellow)%d%Creset'
